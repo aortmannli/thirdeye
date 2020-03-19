@@ -1,0 +1,13 @@
+ident
+torus
+0 0 0 2 200
+rotate
+z 30
+rotate
+y 20
+
+
+sphere
+250 250 0 50
+apply
+display
